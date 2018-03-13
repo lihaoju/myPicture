@@ -1,4 +1,4 @@
-package org.haoju.li;
+package org.haoju.li.service;
 
 /**
  * Hello world!

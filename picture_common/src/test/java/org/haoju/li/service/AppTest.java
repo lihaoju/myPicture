@@ -1,4 +1,4 @@
-package org.haoju.li;
+package org.haoju.li.service;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
