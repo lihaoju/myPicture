@@ -10,7 +10,8 @@ import org.springframework.stereotype.Service;
  * Created by lhj on 2017/10/29.
  */
 
-@Service
+@Service("userService")
+@com.alibaba.dubbo.config.annotation.Service
 public class UserServiceImpl implements UserService {
 
     @Autowired
